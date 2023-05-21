@@ -3,9 +3,9 @@ Malen Cuturic:)
 
 Reading of Ballots:
 
-- Mount optical drive which contains scan of ballots. Path to folder containing scans will be referred to as $OPTICAL$.
+- Mount optical drive which contains scan of ballots. Path to folder containing scans will be referred to as OPTICAL.
 
-- Main file to be used is "reader.py", which must be edited so that the image_folder variable is $OPTICAL$ (glad we came up with that shorthand!).
+- Main file to be used is "reader.py", which must be edited so that the image_folder variable is OPTICAL (glad we came up with that shorthand!).
  
 - File structure should look like:
 
